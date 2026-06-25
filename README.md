@@ -54,7 +54,7 @@ the nutritional composition of 510 menu items across 8 major fast-food restauran
 ## Dashboard Preview
 
 ### Page 1 — Fast Food Analysis Dashboard
-![Fast Food Analysis Dashboard](Dashboard-Page1.png)
+![Fast Food Analysis Dashboard](Dashboard-Page 1.png)
 
 ### Page 2 — Fast Food Detailed Analysis
 ![Fast Food Detailed Analysis](Dashboard-Page2.png)
